@@ -1,0 +1,6 @@
+- platform: mqtt
+  name: "Lampada"
+  state_topic: "home-assistant/SensorDaSala/lampada"
+  command_topic: "home-assistant/SensorDaSala/lampada/command"
+  payload_on: "ON"
+  payload_off: "OFF"

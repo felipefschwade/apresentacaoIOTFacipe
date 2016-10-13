@@ -1,0 +1,22 @@
+Calendario:
+  entities:
+    - sensor.date
+    - sensor.time
+
+Sensor Interno Da Sala:
+  entities:
+    - sensor.luminosidade_da_sala
+    - sensor.temperatura_interna_da_sala
+    - sensor.umidade_interna_da_sala
+
+Forecast:
+  entities:
+    - sensor.forecast_apparent_temperature
+    - sensor.forecast_daily_high_apparent_temperature
+    - sensor.forecast_daily_high_temperature
+    - sensor.forecast_daily_low_apparent_temperature
+    - sensor.forecast_daily_low_temperature
+    - sensor.forecast_humidity
+    - sensor.forecast_precip_intensity
+    - sensor.forecast_precip_probability
+    - sensor.forecast_temperature

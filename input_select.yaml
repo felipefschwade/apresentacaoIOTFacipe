@@ -1,0 +1,8 @@
+who_cooks:
+  name: Quem vai cozinhar hoje?
+  options:
+    - Opção 1
+    - Opção 2
+    - Opção 3
+  initial: Anne Therese
+  icon: mdi:panda

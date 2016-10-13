@@ -1,0 +1,12 @@
+- alias: 
+  trigger:
+    platform: 
+    entity_id: 
+    state: 
+  condition: 
+    condition: 
+    entity_id:
+    state:
+  action:
+    service:
+    entity_id: 

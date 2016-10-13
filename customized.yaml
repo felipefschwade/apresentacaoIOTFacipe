@@ -1,0 +1,29 @@
+input_boolean.notify_home:
+  friendly_name: 'Alguem em casa?'
+  icon: 'mdi:clock'
+input_boolean.modo_manual:
+  friendly_name: 'Modo Manual'
+  icon: 'mdi:account-off'
+input_select.who_cooks:
+  friendly_name: 'Quem vai cozinhar?'
+  icon: 'mdi:walk'
+input_select.living_room_preset:
+  friendly_name: 'Álguem na sala de estar?'
+  icon: 'mdi:walk'
+input_slider.slider:
+  friendly_name: 'Slider'
+  icon: 'mdi:walk'
+
+sensor.sensor_interno_umidade:
+  friendly_name: 'Umidade Interna'
+  icon: mdi:water-percent
+
+sensor.sensor_interno_temperatura:
+  friendly_name: 'Temperatura Interna'
+  icon: mdi:temperature-celsius
+
+group.caixa_1:
+  friendly_name: 'Controladores da Caixa 1'
+
+switch.bomba:
+  hidden: true
