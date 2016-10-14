@@ -30,7 +30,7 @@ input_select: !include input_select.yaml
 
 switch: !include switch.yaml
 
-#automation: !include automation.yaml
+automation: !include automation.yaml
 
 group:  !include group.yaml
 
