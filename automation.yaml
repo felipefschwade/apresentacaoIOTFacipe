@@ -1,12 +1,8 @@
-- alias: 
-  trigger:
-    platform: 
-    entity_id: 
-    state: 
-  condition: 
-    condition: 
-    entity_id:
-    state:
+- alias: Liga a luz da sala quando a luminosidade estiver muito baixa
+  trigger:  
+    platform: numeric_state
+    entity_id: sensor.luminosidade_da_sala
+    below: 250
   action:
-    service:
-    entity_id: 
+    service: switch.turn_on
+    entity_id: switch.lampada
