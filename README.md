@@ -1,4 +1,4 @@
-# Apresentacao IOT Facipe
+# Apresentacao IOT Fasipe
 Arquivos utilizadas para a apresentação de IOT utilizando o Home-Assistant e Arduino para a domótica.
 
 Contato:
