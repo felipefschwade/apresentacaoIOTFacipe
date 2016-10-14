@@ -6,6 +6,6 @@ sensor.temperatura_interna_da_sala:
   friendly_name: 'Temperatura Interna'
   icon: mdi:temperature-celsius
 
-sensor.temperatura_interna_da_sala:
+sensor.luminosidade_interna_da_sala:
   friendly_name: "Luminosidade da Sala"
   icon: mdi:flash-red-eye
